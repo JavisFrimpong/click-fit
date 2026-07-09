@@ -44,11 +44,11 @@ a{
 }
 
 .nav-link:hover{
-    color:#ff5a1f;
+    color:#00e44c;
 }
 
 .hero-btn{
-    background:#ff5a1f;
+    background:#00e44c;
     color:#fff;
     border-radius:0;
     padding:14px 28px;
@@ -67,7 +67,7 @@ a{
 .hero{
     height:115vh;
     position:relative;
-    background:url("../images/background.avif") center center/cover no-repeat;
+    background:url("../images/background.jpg") center center/cover no-repeat;
 }
 
 .overlay{
@@ -136,9 +136,6 @@ a{
 }
 
 
-
-
-
 .program-card{
 
     position:relative;
@@ -177,7 +174,7 @@ a{
 
     inset:0;
 
-    background:rgba(0,0,0,.10);
+    background:rgba(206, 64, 64, 0.1);
 
     display:flex;
 
@@ -201,7 +198,7 @@ a{
 
     inset:0;
 
-    background:#fff;
+    background:#000000;
 
     padding:50px;
 
@@ -235,7 +232,7 @@ a{
 
     font-size:2.8rem;
 
-    color:#111;
+    color:#ffffff;
 
 }
 
@@ -254,7 +251,7 @@ a{
 
 .program-btn{
 
-    background:#ff5a1f;
+    background:#00e44c;
 
     color:#fff;
 
@@ -324,7 +321,7 @@ a{
 
     height:100%;
 
-    background:#ff5a1f;
+    background:#00e44c;
 
 }
 
@@ -349,7 +346,7 @@ a{
 
 .equipment-top i{
 
-    color:#ff5a1f;
+    color:#00e44c;
 
     font-size:1.3rem;
 
@@ -411,7 +408,7 @@ a{
 
     padding:12px 28px;
 
-    background:#ff5a1f;
+    background:#00e44c;
 
     color:#fff;
 
@@ -495,7 +492,7 @@ a{
 .trainer-overlay a{
     width:45px;
     height:45px;
-    background:#ff5a1f;
+    background:#00e44c;
     color:#fff;
     display:flex;
     justify-content:center;
@@ -523,7 +520,7 @@ a{
 }
 
 .trainer-info span{
-    color:#ff5a1f;       
+    color:#00e44c;       
     font-size:0.95rem;
     font-weight:500;
 }
@@ -541,7 +538,7 @@ a{
 
 #drop-area{
 
-    border:3px dashed #ff5a1f;
+    border:3px dashed #00e44c;
 
     border-radius:20px;
 
@@ -569,7 +566,7 @@ a{
 
     font-size:60px;
 
-    color:#ff5a1f;
+    color:#00e44c;
 
     margin-bottom:25px;
 
@@ -579,7 +576,7 @@ a{
 
     margin-top:30px;
 
-    background:#ff5a1f;
+    background:#00e44c;
 
     color:#fff;
 
@@ -660,7 +657,7 @@ a{
 
 .stat-card i{
     font-size:2.5rem;
-    color:#ff5a1f;
+    color:#00e44c;
     margin-bottom:20px;
 }
 
@@ -696,7 +693,7 @@ a{
 
 .quote-icon{
     font-size:2rem;
-    color:#ff5a1f;
+    color:#00e44c;
     margin-bottom:20px;
 }
 
@@ -719,13 +716,13 @@ a{
 }
 
 .testimonial-card span{
-    color:#ff5a1f;
+    color:#00e44c;
     font-weight:500;
 }
 
 .cta-section{
 
-    background:url("../images/cta-bg.jpg") center center/cover no-repeat;
+    background:url("../images/rehab.jpg") center center/cover no-repeat;
 
     position:relative;
 
@@ -789,7 +786,7 @@ a{
 
 .btn-primary-custom{
 
-    background:#ff5a1f;
+    background:#00e44c;
 
     color:#fff;
 
@@ -900,7 +897,7 @@ a{
 
 .footer-section ul li a:hover{
 
-    color:#ff5a1f;
+    color:#00e44c;
 
 }
 
@@ -912,7 +909,7 @@ a{
 
 .contact-list i{
 
-    color:#ff5a1f;
+    color:#00e44c;
 
     width:25px;
 
@@ -950,7 +947,7 @@ a{
 
 .social-links a:hover{
 
-    background:#ff5a1f;
+    background:#00e44c;
 
     transform:translateY(-5px);
 
@@ -1002,7 +999,7 @@ a{
 
 .newsletter-form button{
 
-    background:#ff5a1f;
+    background:#00e44c;
 
     border:none;
 
@@ -1060,7 +1057,7 @@ a{
 
 .footer-bottom a:hover{
 
-    color:#ff5a1f;
+    color:#00e44c;
 
 }
 
@@ -1081,7 +1078,7 @@ a{
     position:absolute;
     top:8px;
     right:8px;
-    background:#ff5a1f;
+    background:#00e44c;
     color:#fff;
     border-radius:50%;
     width:26px;
@@ -1094,7 +1091,7 @@ a{
 }
 
 #cfErrorToast{
-    border-left:4px solid #ff5a1f;
+    border-left:4px solid #00e44c;
 }
 
 
