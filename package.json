@@ -1,0 +1,13 @@
+{
+  "name": "click-fit",
+  "version": "1.0.0",
+  "description": "Click Fit - single page fitness site with image upload backend (technical assessment)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "multer": "^2.2.0"
+  }
+}
