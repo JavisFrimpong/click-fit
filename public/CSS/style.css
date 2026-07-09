@@ -198,7 +198,7 @@ a{
 
     inset:0;
 
-    background:#000000;
+    background:#fdfbfb;
 
     padding:50px;
 
@@ -431,15 +431,15 @@ a{
 
 .trainers-section{
     padding:120px 0;
-    background:#f8f9fa;
+    background:#4f5a5e;
 }
 
 .trainers-section .section-title{
-    color:#111;
+    color:#ffffff;
 }
 
 .trainers-section .section-text{
-    color:#666;
+    color:#aaa7a7;
     max-width:700px;
     margin:0 auto;
 }
@@ -622,16 +622,16 @@ a{
 
 
 .community-section{
-    background:#f8f9fa;
+    background:#4f5a5e;
     padding:120px 0;
 }
 
 .community-section .section-title{
-    color:#111;
+    color:#ffffff;
 }
 
 .community-section .section-text{
-    color:#666;
+    color:#ffffff;
     max-width:700px;
     margin:0 auto;
 }
@@ -710,7 +710,7 @@ a{
 }
 
 .testimonial-card h5{
-    color:#1102dfec;
+    color:#ff5a1f;
     margin-bottom:5px;
     font-weight:600;
 }
