@@ -50,7 +50,7 @@ a{
 .hero-btn{
     background:#00e44c;
     color:#fff;
-    border-radius:0;
+    border-radius:20px;
     padding:14px 28px;
     font-weight:600;
     transition:.3s;
