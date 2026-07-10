@@ -33,6 +33,6 @@ END $$
 DELIMITER ;
 
 
-CALL addUser('bernard.mensah@example.com', '$2b$10$examplehashvalueonly', 'member', 1);
+CALL addUser('quadjo.spee@wave.com', '$12%Star@1', 'member', 1);
 
 SELECT * FROM users;
